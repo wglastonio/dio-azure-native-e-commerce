@@ -55,9 +55,9 @@ This project is part of the Digital Innovation One training program in collabora
 - **dotenv**: Environment variable management
 
 ## Azure Services Used
-- **Azure SQL Database**: SQL database
+- **Azure SQL Database**: SQL database to store data
 - **Azure SQL Server**: SQL server required by database
-- **Azure Storage Account**: Manage access to the database
+- **Azure Storage Account**: Storage the images
 
 ## How to Contribute
 1. Fork the repository.
