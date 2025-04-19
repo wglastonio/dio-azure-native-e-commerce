@@ -25,8 +25,7 @@ This project is part of the Digital Innovation One training program in collabora
         - SQL_USERNAME
         - SQL_PASSWORD
 
-3. Deploy Azure resources:
-    - Use the provided ARM templates or Terraform scripts to deploy the necessary Azure infrastructure.
+3. Deploy Azure resources
 
 4. Install dependencies:
     ```bash
@@ -40,9 +39,9 @@ This project is part of the Digital Innovation One training program in collabora
 ## Results
 
 **Main Page**
-![Main Page](./img/main_page.png
+![Main Page](./img/main_page.png)
 
-**Save Product**)
+**Save Product**
 ![Save Product](./img/save_product.png)
 
 **List Products**
